@@ -1,0 +1,6 @@
+[package]
+name = "rustsnes"
+version = "0.1.0"
+authors = ["jairo"]
+
+[dependencies]
